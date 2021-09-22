@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenzhy9
+- 👋 Hi, I’m kenny
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML and css
 - 💞️ I’m looking forward to work and learn from programmers.
