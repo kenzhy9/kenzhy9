@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kenzhy9
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML and css
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me holokenzee@gmail.com
+- 💞️ I’m looking forward to work and learn from programmers.
+- 📫 How to reach me @ holokenzee@gmail.com
 
 <!---
 kenzhy9/kenzhy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
